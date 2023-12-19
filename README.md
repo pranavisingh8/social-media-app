@@ -16,10 +16,14 @@ A welcoming landing page introducing users to the platform.
 ![Screenshot (255)](https://github.com/pranavisingh8/social-media-app/assets/138822333/dfab3814-8f81-49f8-b7fd-d9e225b026c6)
 ## Login Page: 
 Allows existing users to log in to their accounts securely.
+
+![Screenshot (258)](https://github.com/pranavisingh8/social-media-app/assets/138822333/62403f6a-30ae-4e9f-bb15-0a5e0007d192)
 ## Signup Page: 
 Enables new users to create accounts and join the Vibe-ly community.
 ## Home Page: 
 Displays a feed of posts from followed users and personalized content.
+
+<img width="237" alt="Screenshot 2023-12-19 192137" src="https://github.com/pranavisingh8/social-media-app/assets/138822333/4ffd9d93-647a-40d3-b099-0e2720d151f7">
 ## Edit Profile Page: 
 Allows users to modify their profile information, such as bio, profile picture, etc.
 ## Post Upload Button: 
