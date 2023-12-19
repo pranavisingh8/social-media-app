@@ -8,6 +8,8 @@ https://pranavi-singhs-team.adalo.com/instagram
 
 ## Vibe-ly is a social media application designed to connect users through sharing posts, updating profiles, and fostering a vibrant online community. This project encompasses various essential functionalities, including:
 
+![Screenshot (257)](https://github.com/pranavisingh8/social-media-app/assets/138822333/995726af-518a-4a61-be97-ebb35a641c46)
+
 ## Welcome Page: 
 A welcoming landing page introducing users to the platform.
 ## Login Page: 
