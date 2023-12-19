@@ -12,6 +12,7 @@ https://pranavi-singhs-team.adalo.com/instagram
 
 ## Welcome Page: 
 A welcoming landing page introducing users to the platform.
+![Screenshot (255)](https://github.com/pranavisingh8/social-media-app/assets/138822333/dfab3814-8f81-49f8-b7fd-d9e225b026c6)
 ## Login Page: 
 Allows existing users to log in to their accounts securely.
 ## Signup Page: 
