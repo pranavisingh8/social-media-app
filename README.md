@@ -20,10 +20,13 @@ Allows existing users to log in to their accounts securely.
 ![Screenshot (258)](https://github.com/pranavisingh8/social-media-app/assets/138822333/62403f6a-30ae-4e9f-bb15-0a5e0007d192)
 ## Signup Page: 
 Enables new users to create accounts and join the Vibe-ly community.
+
+![Screenshot (259)](https://github.com/pranavisingh8/social-media-app/assets/138822333/57788072-1ae8-4107-9dd2-6ba1fd2c8b87)
 ## Home Page: 
 Displays a feed of posts from followed users and personalized content.
 
 <img width="237" alt="Screenshot 2023-12-19 192137" src="https://github.com/pranavisingh8/social-media-app/assets/138822333/4ffd9d93-647a-40d3-b099-0e2720d151f7">
+
 ## Edit Profile Page: 
 Allows users to modify their profile information, such as bio, profile picture, etc.
 ## Post Upload Button: 
@@ -49,13 +52,6 @@ The post-upload button allows users to create and share content, fostering inter
 
 ## Social Interaction
 Follow/unfollow buttons are implemented with appropriate logic to allow users to connect with others and build their social network.
-
-## Technologies Used
-Frontend: HTML, CSS, JavaScript (or framework like React, Vue, Angular)
-Backend: Node.js, Express.js, MongoDB (or other database)
-Authentication: JWT (JSON Web Tokens)
-Other libraries or tools you utilized (e.g., Bootstrap, Sass, etc.)
-
 ## Future Improvements
 Implement real-time notifications.
 Enhance user experience with more interactive features.
