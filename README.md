@@ -4,7 +4,7 @@ link to the app is :
 https://pranavi-singhs-team.adalo.com/instagram
 # Vibe-ly: Social Media App Development
 
-## Overview:
+## Overview::
 
 ## Vibe-ly is a social media application designed to connect users through sharing posts, updating profiles, and fostering a vibrant online community. This project encompasses various essential functionalities, including:
 
