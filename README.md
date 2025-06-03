@@ -2,7 +2,7 @@
 
 link to the app is :
 https://pranavi-singhs-team.adalo.com/instagram
-# Vibe-ly: Social Media App Development
+# Vibe-ly: Social Media App Development!
 
 ## Overview
 
